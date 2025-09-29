@@ -13,5 +13,7 @@ Programske domaće zadaće iz kolegija **Matematičke osnove strojnog učenja** 
     - SGD - stohastički gradijentni spust
     - MLP (*Multilayer Perceptron*) neuronska mreža
 
+- računska (*accuracy score*) i vizualna usporedba
+
 
 Korištenje Python `scikit-learn` biblioteke.
